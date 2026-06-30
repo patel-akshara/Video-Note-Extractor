@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+videos/
+audio/
+transcripts/
+notes/
+.env
